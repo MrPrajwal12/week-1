@@ -6,9 +6,7 @@
 ## Portfolio website
 ## Demo video
 ## Home Page
-![Home Page](
 ![homepage](https://github.com/MrPrajwal12/week-1/assets/117060344/60587c45-4a8a-4976-8b90-ab8f49248f1c)
-)
 ## About Me
 ![alt text](https://mega.nz/file/edU3yD5Y#1J8kr2D3cnHZhIoVooy-fDNwEfGhOxu_wlDJMhnC0l8)
 ## Projects
