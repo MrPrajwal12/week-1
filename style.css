@@ -1,0 +1,150 @@
+/* Your existing CSS styles here */
+
+/* Updated Navigation Styles */
+nav {
+    background-color: #333;
+    padding: 15px 0;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 1000;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+}
+
+nav ul {
+    list-style-type: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}  
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+  
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color:#04AA6D;
+    border-radius: 0.4em;
+}
+nav .logo {
+    font-size: 1.5em;
+}
+
+/* Additional Styles for Header Section */
+header {
+    background-image: url('background1.png'); /* Add a background image for the header */
+    background-size: cover;
+    color: black;
+    text-align: center;
+    padding: 100px 0;
+}
+
+header h1 {
+    font-size: 2.5em;
+    font-weight: bold;
+
+}
+
+
+/* Styling for other sections as needed */
+
+
+/* Your existing CSS styles here */
+
+/* Additional Styles for About Me Section */
+#about {
+    background-color: #f4f4f4;
+    padding: 50px 0;
+    text-align: center;
+}
+
+#about h2 {
+    color: #333;
+}
+
+#about p {
+    max-width: 800px;
+    margin: 20px auto;
+}
+
+/* Additional Styles for Projects Section */
+#projects {
+    background-color: #e6f7ff;
+    padding: 50px 0;
+}
+
+#projects h2 {
+    color: #0056b3;
+}
+
+#projects div {
+    background-color: #ffffff;
+    padding: 20px;
+    margin: 20px 0;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+#projects a {
+    color: #007bff;
+}
+
+/* Additional Styles for Contact Section */
+#contact {
+    background-color: #333;
+    color: white;
+    padding: 50px 0;
+    text-align: center;
+}
+
+#contact p {
+    margin: 10px 0;
+}
+
+#contact a {
+    color: #04AA6D;
+}
+
+/* Additional Styles for Footer (if applicable) */
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}
+
+
+
+/* Additional Styles for skills and interests Section */
+#skillsandinterests {
+    background-color: #e6f7ff;
+    padding: 50px 0;
+}
+
+#skillsandinterests h2 {
+    color: #0056b3;
+}
+
+#skillsandinterests div {
+    background-color: #ffffff;
+    padding: 20px;
+    margin: 20px 0;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+#skillsandinterests a {
+    color: #007bff;
+}
