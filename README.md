@@ -6,7 +6,7 @@
 ## Portfolio website
 ## Demo video
 ## Home Page
-![alt text](https://mega.nz/file/HB8QgAxC#zW-zI5OEDoaz4q8DezzucOARLKyz-ieY_PE2U_o6eCg)
+![alt url](https://mega.nz/file/HB8QgAxC#zW-zI5OEDoaz4q8DezzucOARLKyz-ieY_PE2U_o6eCg)
 ## About Me
 ![alt text](https://mega.nz/file/edU3yD5Y#1J8kr2D3cnHZhIoVooy-fDNwEfGhOxu_wlDJMhnC0l8)
 ## Projects
